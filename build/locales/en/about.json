@@ -1,0 +1,25 @@
+{
+    "header": "About us",
+    "topSection": {
+      "title": "RoFruit - Your Online Destination for Delight!",
+      "description": "In line with the trends of the modern era and considering the importance of online services for the community, we have decided to establish our presence on the web. Our goal is to provide people with products that they will be satisfied with in terms of quality."
+    },
+    "bottomSection": {
+      "title": "Why us?",
+      "listItems": [
+        {
+          "title": "Quality control",
+          "description": "You can be sure that the products you receive from us are delicious and of high quality."
+        },
+        {
+          "title": "Save your time",
+          "description": "Delegate your shopping to us and save your valuable time."
+        },
+        {
+          "title": "Wide selection",
+          "description": "Opportunity to benefit from a variety of products."
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,20 @@
+{
+    "productDetails": {
+      "addToBasket": "Səbətə at",
+      "addToFavourites": "İstəklərə əlavə et",
+      "addedToFavourites": "İstək listindədir",
+      "share": "Paylaş:",
+      "similarProducts": "Oxşar məhsullar"
+    },
+    "pricingTypeOptions": {
+      "wholesale": {
+        "title": "Topdan",
+        "description": "Səbətdəki toplam miqdar 100 ₼-dan çox olmalıdır."
+      },
+      "retail": {
+        "title": "Pərakəndə",
+        "description": "Səbətdəki toplam miqdar 20 ₼-dan çox olmalıdır."
+      }
+    }
+  }
+  

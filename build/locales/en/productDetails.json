@@ -1,0 +1,20 @@
+{
+    "productDetails": {
+      "addToBasket": "Add to basket",
+      "addToFavourites": "Add to favourites",
+      "addedToFavourites": "Added to favourites",
+      "share": "Share:",
+      "similarProducts": "Similar products"
+    },
+    "pricingTypeOptions": {
+      "wholesale": {
+        "title": "Wholesale",
+        "description": "Total quantity in the basket must be more than 100 ₼."
+      },
+      "retail": {
+        "title": "Retail",
+        "description": "Total quantity in the basket must be more than 20 ₼."
+      }
+    }
+  }
+  

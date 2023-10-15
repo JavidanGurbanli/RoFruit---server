@@ -1,0 +1,44 @@
+{
+    "title": "Registration",
+    "nameLabel": "Name",
+    "surnameLabel": "Surname",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "repeatPasswordLabel": "Repeat Password",
+    "acceptTermsLabel": "I accept the terms and conditions of the website by registering.",
+    "registerButton": "Register",
+    "login": "Log In",
+    "signInWithText": "Or sign in with",
+    "rememberText": "Remember",
+    "existingUserMessage": "Already have an account? Log in.",
+    "registrationSuccessMessage": "Registration was successful! You are now logged in.",
+    "errorMessage": "User already exists.",
+    "errorMessageLogin": "Email or password is incorrect.",
+    "inputErrors": {
+      "name": {
+        "required": "Name is required",
+        "min": "Name must be at least 2 characters"
+      },
+      "surname": {
+        "required": "Surname is required",
+        "min": "Surname must consist of two words with at least two characters each"
+      },
+      "email": {
+        "required": "Email is required",
+        "matches": "Invalid email format"
+      },
+      "password": {
+        "required": "Password is required",
+        "min": "Password must be at least 6 characters",
+        "matches": "Password must contain at least one uppercase letter, one lowercase letter, and one number"
+      },
+      "repeatPassword": {
+        "required": "Repeat password is required",
+        "oneOf": "Passwords must match"
+      },
+      "acceptTerms": {
+        "oneOf": "You must accept the terms and conditions"
+      }
+    }
+  }
+  

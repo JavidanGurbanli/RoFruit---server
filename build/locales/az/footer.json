@@ -1,0 +1,44 @@
+{
+    "footerTop": {
+        "callBackText": "Sizə geri zəng etməyimizi istərdinizmi?",
+        "successMessage": "İstəyiniz uğurla qeydə alındı. Əməkdaşlarımız gün içərisində sizinlə əlaqə saxlayacaqlar.",
+        "formPlaceholder": "Telefon nömrəniz *",
+        "inputWarningText": "* Telefon qeyd etməlisiniz.",
+        "inputErrorText": "Yanlış format (+994 XX XXX XX XX)",
+        "submitButton": "Göndər",
+        "writeUsText": "Bizə yazın"
+      },
+      "footerMid": [
+        {
+          "title": "Pulsuz çatdırılma",
+          "description": "20 AZN-dən yuxarı sifariş"
+        },
+        {
+          "title": "Geri qaytarılma",
+          "description": "24 saat ərzində"
+        },
+        {
+          "title": "Təhlükəsiz alış-veriş",
+          "description": "Məlumatlarınızın qorunması"
+        },
+        {
+          "title": "Geniş çeşid",
+          "description": "1.000-dən çox məhsul"
+        }
+      ],
+      "footerBottom": {
+        "logoContent": "Tam təbii və yerli meyvə və tərəvəzlərin topdan satışı",
+        "aboutUs": "Haqqımızda",
+        "products": "Məhsullar",
+        "faq": "FAQ",
+        "contactUs": "Bizimlə əlaqə",
+        "store": "Mağaza",
+        "login": "Daxil ol / Qeydiyyat",
+        "basket": "Səbət",
+        "wishlist": "İstək listi",
+        "contact": "Əlaqə",
+        "address": "Bakı şəhəri, Xocasən şosesi, Qaradağ, Meyvəli Ticarət Mərkəzi",
+        "siteMap": "Sayt xəritəsi",
+        "rightsReserved": "2023 © Bütün hüquqlar qorunur."
+      }
+}

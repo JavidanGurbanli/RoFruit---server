@@ -1,0 +1,44 @@
+{
+    "title": "Qeydiyyat",
+    "nameLabel": "Ad ",
+    "surnameLabel": "Soyad ",
+    "emailLabel": "Email ",
+    "passwordLabel": "Şifrə ",
+    "repeatPasswordLabel": "Şifrəni təkrarla ",
+    "acceptTermsLabel": " Qeydiyyatdan keçməklə saytdan istifadə qaydalarını qəbul edirəm.",
+    "registerButton": "Qeydiyyat",
+    "login": "Daxil ol",
+    "signInWithText": "Və ya bununla daxil olun",
+    "rememberText": "Yadda saxla",
+    "existingUserMessage": "Hesabınız var? Daxil olun.",
+    "registrationSuccessMessage": "Qeydiyyat uğurla başa çatdı! Siz artıq sisteme daxilsiniz.",
+    "errorMessage": "İstifadəçi artıq mövcuddur.",
+    "errorMessageLogin": "Email və ya şifrə yanlışdır.",
+    "inputErrors": {
+        "name": {
+          "required": "Ad tələb olunur",
+          "min": "Ad ən az 2 simvoldan ibarət olmalıdır"
+        },
+        "surname": {
+          "required": "Soyad tələb olunur",
+          "min": "Soyad ən az 2 simvoldan ibarət iki söz olmalıdır"
+        },
+        "email": {
+          "required": "Email tələb olunur",
+          "matches": "Yanlış email formatı"
+        },
+        "password": {
+          "required": "Şifrə tələb olunur",
+          "min": "Şifrə ən az 6 simvoldan ibarət olmalıdır",
+          "matches": "Şifrədə ən az bir böyük hərf, bir kiçik hərf və bir rəqəm olmalıdır"
+        },
+        "repeatPassword": {
+          "required": "Təkrar şifrə tələb olunur",
+          "oneOf": "Şifrələr uyğun gəlməlidir"
+        },
+        "acceptTerms": {
+          "oneOf": "Şərtlərlə razı olmalısınız"
+        }
+      }
+  }
+  

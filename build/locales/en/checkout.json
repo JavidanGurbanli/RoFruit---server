@@ -1,0 +1,71 @@
+{
+    "title": "Place Your Order",
+    "inputLabels": {
+      "fullname": "Full Name ",
+      "phone": "Phone Number ",
+      "email": "Email ",
+      "city": "City ",
+      "place": "Delivery Address ",
+      "info": {
+        "text": "Additional Information",
+        "placeholder": "If you have any additional information about your order, please enter it here."
+      }
+    },
+    "inputErrors": {
+      "email": {
+        "required": "Email is required",
+        "matches": "Invalid email format"
+      },
+      "fullname": {
+        "required": "Full name is required",
+        "matches": "Full name must consist of two words with at least two characters each"
+      },
+      "phone": {
+        "required": "Phone number is required",
+        "matches": "Phone number must have the format (+994 XX XXX XX XX)"
+      },
+      "select": {
+        "required": "Please select an option"
+      },
+      "place": {
+        "required": "Place cannot be empty"
+      }
+    },
+    "textareaPlaceholder": "If you have any additional information about your order, please enter it here.",
+    "termsAndConditions": "Terms and Conditions",
+    "termsAndConditionsText": " agree",
+    "buttons": {
+      "cancel": "Cancel",
+      "submit": "Submit"
+    },
+    "successMessage": "Your order has been placed",
+    "thankYouMessage": "Thank you for shopping with us!",
+    "productDetailsHeader": {
+      "title": "Product",
+      "quantity": "Item"
+    },
+    "totalAmount": "Total Amount",
+    "discount": "Discount",
+    "finalAmount": "Final Amount",
+    "selectOptions": {
+      "baku": "Baku",
+      "sumgait": "Sumgait",
+      "gence": "Ganja",
+      "goychay": "Goychay",
+      "lenkaran": "Lenkaran",
+      "quba": "Quba",
+      "gabala": "Qabala",
+      "masalli": "Masalli",
+      "shamkir": "Shamkir",
+      "xachmaz": "Khachmaz",
+      "sabirabad": "Sabirabad",
+      "imishli": "Imishli",
+      "agcabadi": "Agcabadi",
+      "calilabad": "Jalilabad",
+      "yevlakh": "Yevlakh",
+      "agdash": "Agdash",
+      "kurdemir": "Kurdamir",
+      "sheki": "Sheki"
+    }
+  }
+  

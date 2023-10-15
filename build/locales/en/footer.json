@@ -1,0 +1,45 @@
+{
+    "footerTop": {
+      "callBackText": "Would you like us to call you back?",
+      "successMessage": "Your request has been successfully recorded. Our colleagues will contact you during the day.",
+      "formPlaceholder": "Your phone number *",
+      "inputWarningText": "* You must enter a phone number.",
+      "inputErrorText": "Wrong format (+994 XX XXX XX XX)",
+      "submitButton": "Send",
+      "writeUsText": "Write to us"
+    },
+    "footerMid": [
+      {
+        "title": "Free delivery",
+        "description": "On orders over 20 AZN"
+      },
+      {
+        "title": "Return policy",
+        "description": "Within 24 hours"
+      },
+      {
+        "title": "Secure shopping",
+        "description": "Protection of your information"
+      },
+      {
+        "title": "Wide variety",
+        "description": "Over 1,000 products"
+      }
+    ],
+    "footerBottom": {
+      "logoContent": "Wholesale of natural and local fruits and vegetables",
+      "aboutUs": "About us",
+      "products": "Products",
+      "faq": "FAQ",
+      "contactUs": "Contact us",
+      "store": "Store",
+      "login": "Log in / Register",
+      "basket": "Basket",
+      "wishlist": "Wishlist",
+      "contact": "Contact",
+      "address": "Baku city, Khachasan highway, Garadag, Fruit Trade Center",
+      "siteMap": "Site map",
+      "rightsReserved": "2023 © All rights reserved."
+    }
+  }
+  

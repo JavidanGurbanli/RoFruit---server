@@ -1,0 +1,26 @@
+{
+    "header": "Haqqımızda",
+    "topSection": {
+        "title": "RoFruit - təravətin onlayn ünvanı!",
+        "description": "Müasir dövrün tendensiyalarına uyğunlaşaraq və onlayn xidmətlərin cəmiyyət üçün vacibliyini nəzərə alaraq fəaliyyətimizi veb üzərində qurmağa qərar verdik. Məqsədimiz insanları keyfiyyətindən məmnun qalacaqları məhsullarla təmin etməkdir."
+    },
+    "bottomSection": {
+        "title": "Niyə biz?",
+        "listItems": [
+        {
+            "title": "Keyfiyyətə nəzarət",
+            "description": "Bizdən əldə etdiyiniz məhsulların təravətli və keyfiyyətli olmasına əmin ola bilərsiniz"
+        },
+        {
+            "title": "Vaxtınıza qənaət",
+            "description": "Alış-verişinizi bizə həvalə edin, vaxtınıza qənaət edin"
+        },
+        {   
+            "title": "Geniş seçim",
+            "description": "Müxtəlif növ məhsullardan faydalanma imkanı"
+        }
+        ]
+    }
+}
+
+  

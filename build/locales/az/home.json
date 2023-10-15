@@ -1,0 +1,54 @@
+{
+    "banners": {
+      "firstBanner": {
+        "text": "Damaq zövqünüzə uyğun",
+        "title": "Çərəzlər",
+        "buttonText": "Daha ətraflı"
+      },
+      "secondBanner": {
+        "text": "Bol vitaminli",
+        "title": "Meyvə və tərəvəzlər",
+        "buttonText": "Daha ətraflı"
+      }
+    },
+    "homeProducts": {
+      "sectionTitle": "Geniş məhsul seçimi",
+      "sectionSubtitle": "Yeni əlavə olunmuş RoFruit məhsulları",
+      "allProductsLinkText": "Bütün məhsullar"
+    },
+    "stepArea": {
+      "sectionTitle": "Bizim iş fəaliyyətimiz",
+      "sectionSubtitle": "RoFruit saytında sifariş mərhələləri",
+      "stepTitles": [
+        "Məhsul seçimi",
+        "Səbətə yığmaq",
+        "Onlayn sifariş",
+        "Pulsuz çatdırılma"
+      ]
+    },
+    "campaign": {
+      "sectionTitle": "RoFruit sevindirir",
+      "sectionSubtitle": "Ən son xəbər və kampaniyalar"
+    },
+    "slides": [
+      {
+        "title": "Rəngarəng istəklər: Təzə Meyvələr, Təzə Sən"
+      },
+      {
+        "title": "Bol yaşıllıq: boşqabınızdakı bağ"
+      },
+      {
+        "title": "Giləmeyvə şirinliyi: Təbiətin kiçik xəzinələri"
+      },
+      {
+        "title": "Enerji gücləndiriciləri: Quru meyvələrlə qidalanın"
+      },
+      {
+        "title": "Tropik cənnət: Nəfis ekzotik meyvələr"
+      },
+      {
+        "title": "Çərəzli nirvana: Aktiv həyat tərzinizi gücləndirir"
+      }
+    ]
+  }
+  

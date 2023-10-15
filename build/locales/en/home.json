@@ -1,0 +1,54 @@
+{
+    "banners": {
+      "firstBanner": {
+        "text": "Taste tailored to you",
+        "title": "Nuts",
+        "buttonText": "Learn more"
+      },
+      "secondBanner": {
+        "text": "Rich in vitamins",
+        "title": "Fruits and vegetables",
+        "buttonText": "Learn more"
+      }
+    },
+    "homeProducts": {
+      "sectionTitle": "Wide product selection",
+      "sectionSubtitle": "Newly added RoFruit products",
+      "allProductsLinkText": "All products"
+    },
+    "stepArea": {
+      "sectionTitle": "Our business process",
+      "sectionSubtitle": "Order stages on RoFruit website",
+      "stepTitles": [
+        "Product selection",
+        "Adding to cart",
+        "Online order",
+        "Free delivery"
+      ]
+    },
+    "campaign": {
+      "sectionTitle": "RoFruit delights",
+      "sectionSubtitle": "Latest news and campaigns"
+    },
+    "slides": [
+      {
+        "title": "Colorful cravings: Fresh fruits, Fresh You"
+      },
+      {
+        "title": "Greens galore: A garden on your plate"
+      },
+      {
+        "title": "Berry sweetness: Nature's little treasures"
+      },
+      {
+        "title": "Energy boosters: Nourish with dry fruits"
+      },
+      {
+        "title": "Tropical paradise: Exquisite exotic fruits"
+      },
+      {
+        "title": "Nutty nirvana: Fueling your active lifestyle"
+      }
+    ]
+  }
+  

@@ -1,0 +1,35 @@
+{
+    "warningText": {
+      "retail": {
+        "message": "Pərakəndə sifarişlər zamanı minimum səbətdəki miqdar 20 ₼-dan yuxarı olmalıdır.",
+        "price": "20"
+      },
+      "wholesale": {
+        "message": "Topdan sifarişlər zamanı minimum səbətdəki miqdar 100 ₼-dan yuxarı olmalıdır.",
+        "price": "100"
+      }
+    },
+    "emptyBasket": {
+      "message": "Səbətiniz boşdur",
+      "allProductsLinkText": "Bütün məhsullar"
+    },
+    "report": {
+      "title": "Hesabat",
+      "totalPrice": "Yekun qiymət",
+      "deliveryNote": "Çatdırılma zamanı yekun məbləğ çəki fərqinə görə cüzi fərqlənə bilər."
+    },
+    "completeBasket": "Onlayn sifarişi tamamla",
+    "completeWhatsapp": "Whatsappla sifariş et",
+    "continueShopping": "Alış verişə davam et",
+    "contactUs": {
+      "title": "Geri zəng edək",
+      "description": "Aşağıdakı hissəyə telefon nömrənizi əlavə edərək, əməkdaşlarımız sizə geri dönüş edəcək və səbətdəki məhsullarınızı rəsmiləşdirəcəkdir."
+    },
+    "contactSuccess": "Əla. Tezliklə sizə geri dönüş edəcəyik.",
+    "phoneNumber": {
+      "placeholder": "Telefon nömrəniz *",
+      "required": "* Telefon qeyd etməlisiniz.",
+      "message": "Yanlış format (+994 XX XXX XX XX)",
+      "buttonText": "Geri zəng əldə et"
+    }
+  }

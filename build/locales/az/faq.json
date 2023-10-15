@@ -1,0 +1,30 @@
+{
+    "faqTitle": "Tez-tez verilən suallar",
+    "questions": [
+      {
+        "question": "Səhv bir məhsul alsam və ya sifarişimdəki məhsulu dəyişdirmək istəsəm nə etməliyəm?",
+        "answer": "Səhv bir məhsul alsanız və ya sifarişinizdə dəyişiklik etmək istəyirsinizsə, müştəri xidmətimizlə əlaqə saxlayın və mümkün qədər tez sizə kömək edəcəyik."
+      },
+      {
+        "question": "Əgər  sifarişimdə hər hansı bir məhsuldan məmnun deyiləmsə nə etməliyəm?",
+        "answer": "Hər hansı bir məhsuldan məmnun deyilsinizsə, qəbzi təqdim edərək mağazaya qaytara bilərsiniz. Bu bizim səhvimizdirsə, seçiminizə görə çatdırılma zamanı və ya növbəti çatdırılma zamanı sizə dəyən ziyanı ödəyəcəyik.Mağazamız alış-veriş və çatdırılma xidmətimizdən məmnun qalmağınızı təmin etməyə çalışır."
+      },
+      {
+        "question": "Sizin çatdırma saatlarınız saat neçədən neçəyədir?",
+        "answer": "Mağazamız və çatdırılma saatlarımız səhər 9:00-dan axşam 18:00-a qədər işləyir. Sifarişlərinizin dərhal alınmasını təmin etmək üçün bu saatlarda sizə xidmət etməyi çalışırıq."
+      },
+      {
+        "question": "RoFruit-un çatdırma xidməti var və hansı ərazilərə çatdırır?",
+        "answer": "Bəli, biz çatdırma xidməti təklif edirik və bu xidmət bütün məhsullar üçün (Naxçıvan Muxtar Respublikası istisna olmaqla) pulsuzdur."
+      },
+      {
+        "question": "RoFruit-dan sifariş etdiyim qida məhsullarının keyfiyyəti digər mağazaların keyfiyyəti ilə müqayisədə necədir?",
+        "answer": "Sifariş etdiyiniz məhsulların keyfiyyəti digər mağazaların məhsulları ilə müqasiyədə seçilir."
+      },
+      {
+        "question": "RoFruit-ə meyvə, tərəvəz və digər təzə məhsulların seçilməsinə etibar edə bilərəmmi?",
+        "answer": "Tamamilə! Müştəri məmnuniyyətinə üstünlük veririk və məmnun bir müştərinin sadiq müştərimiz olma ehtimalı daha yüksək olduğuna inanırıq."
+      }
+    ]
+  }
+  

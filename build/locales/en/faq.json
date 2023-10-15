@@ -1,0 +1,30 @@
+{
+    "faqTitle": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "What do I do if I received the wrong item or want to change an item in my order?",
+        "answer": "If you received the wrong item or wish to make changes to your order, please contact our customer service, and we will assist you as quickly as possible."
+      },
+      {
+        "question": "What if I'm not satisfied with an item in my grocery shopping and delivery order?",
+        "answer": "If you're not satisfied with an item, you can return it to the store with the grocery store receipt provided. If it's our mistake, we'll reimburse you during delivery or on your next delivery, as per your preference. We aim to ensure your satisfaction with our grocery shopping and delivery service."
+      },
+      {
+        "question": "What are your shop and delivery hours?",
+        "answer": "Our shop and delivery hours are from 9:00 AM to 6:00 PM. We aim to serve you during these hours to ensure you receive your orders promptly."
+      },
+      {
+        "question": "Does RoFruit have a delivery service, and in which areas?",
+        "answer": "Yes, we offer a delivery service, and it's free for all products (except for the Nakhchivan Autonomous Republic)."
+      },
+      {
+        "question": "How does the quality of the food I order from RoFruit compare to my local grocery store?",
+        "answer": "The quality of the products you order is distinguished in comparison with the products of other stores."
+      },
+      {
+        "question": "Can I trust RoFruit to pick my fruit, vegetables, and other fresh foods?",
+        "answer": "Absolutely! We prioritize customer satisfaction and believe that a satisfied client is more likely to become a repeat client."
+      }
+    ]
+  }
+  

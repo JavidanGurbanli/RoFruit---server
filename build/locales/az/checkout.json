@@ -1,0 +1,70 @@
+{
+    "title": "Sifarişi rəsmiləşdir",
+    "inputLabels": {
+      "fullname": "Ad soyad ",
+      "phone": "Telefon nömrəsi ",
+      "email": "Email ",
+      "city": "Şəhər ",
+      "place": "Çatdırılacaq ünvan ",
+      "info": {
+        "text": "Əlavə məlumat",
+        "placeholder": "Sifariş haqqında əlavə məlumat olarsa, bu xanaya daxil edin"
+      }
+    },
+    "inputErrors": {
+        "email": {
+        "required": "Email tələb olunur",
+        "matches": "Yanlış email formatı"
+        },
+        "fullname": {
+        "required": "Ad və soyad tələb olunur",
+        "matches": "Ad və soyad iki söz və hər birində ən az iki simvol olmalıdır"
+        },
+        "phone": {
+        "required": "Telefon nömrəsi tələb olunur",
+        "matches": "Telefon nömrəsi (+994 XX XXX XX XX) formatında olmalıdır"
+        },
+        "select": {
+        "required": "Xahiş olunur bir seçim edin"
+        },
+        "place": {
+        "required": "Ünvan boş ola bilməz"
+        }
+    },
+    "textareaPlaceholder": "Sifariş haqqında əlavə məlumat olarsa, bu xanaya daxil edin",
+    "termsAndConditions": "Şərtlərlə",
+    "termsAndConditionsText": " razıyam",
+    "buttons": {
+      "cancel": "Ləğv et",
+      "submit": "Tamamla"
+    },
+    "successMessage": "Sifarişiniz tamamlandı",
+    "thankYouMessage": "Bizimlə alış-veriş etdiyiniz üçün təşəkkürlər!",
+    "productDetailsHeader": {
+      "title": "Məhsul",
+      "quantity": "ədəd"
+    },
+    "totalAmount": "Ümumi məbləğ",
+    "discount": "Endirim",
+    "finalAmount": "Yekun məbləğ",
+    "selectOptions": {
+      "baku": "Bakı",
+      "sumgait": "Sumqayıt",
+      "gence": "Gəncə",
+      "goychay": "Göyçay",
+      "lenkaran": "Lənkəran",
+      "quba": "Quba",
+      "gabala": "Qəbələ",
+      "masalli": "Masallı",
+      "shamkir": "Şəmkir",
+      "xachmaz": "Xaçmaz",
+      "sabirabad": "Sabirabad",
+      "imishli": "İmişli",
+      "agcabadi": "Ağcabədi",
+      "calilabad": "Cəlilabad",
+      "yevlakh": "Yevlax",
+      "agdash": "Ağdaş",
+      "kurdemir": "Kürdəmir",
+      "sheki": "Şəki"
+    }
+  }

@@ -1,0 +1,12 @@
+{
+    "kg": "kg",
+    "showDiscounted": "Discounted products",
+    "addToBasketText": "Add to basket",
+    "sorting": "Sorting",
+    "sortingOptions": {
+      "newest": "Newest",
+      "highestValue": "Highest price",
+      "lowestValue": "Lowest price"
+    }
+  }
+  

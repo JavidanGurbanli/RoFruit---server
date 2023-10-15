@@ -1,0 +1,36 @@
+{
+    "warningText": {
+      "retail": {
+        "message": "For retail orders, the minimum order amount in the basket must be 20 AZN or more.",
+        "price": "20"
+      },
+      "wholesale": {
+        "message": "For wholesale orders, the minimum order amount in the basket must be 100 AZN or more.",
+        "price": "100"
+      }
+    },
+    "emptyBasket": {
+      "message": "Your basket is empty",
+      "allProductsLinkText": "All products"
+    },
+    "report": {
+      "title": "Report",
+      "totalPrice": "Total price",
+      "deliveryNote": "The final amount may vary based on the weight of the delivery."
+    },
+    "completeBasket": "Complete online order",
+    "completeWhatsapp": "Order via WhatsApp",
+    "continueShopping": "Continue shopping",
+    "contactUs": {
+      "title": "Let's get in touch",
+      "description": "By providing your phone number below, our team will contact you and finalize the items in your basket."
+    },
+    "contactSuccess": "Great! We will get back to you shortly.",
+    "phoneNumber": {
+      "placeholder": "Your phone number *",
+      "required": "* Please enter your phone number.",
+      "message": "Incorrect format (+994 XX XXX XX XX)",
+      "buttonText": "Receive a call back"
+    }
+  }
+  

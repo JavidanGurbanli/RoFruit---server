@@ -1,0 +1,27 @@
+{
+    "pageTitle": "Contact",
+      "formPlaceholders": {
+        "name": "Name",
+        "surname": "Surname",
+        "subject": "Subject",
+        "email": "Email",
+        "message": "Message"
+      },
+      "formErrors": {
+        "nameRequired": "Name is required",
+        "nameMinLength": "Name must be at least 2 characters",
+        "surnameRequired": "Surname is required",
+        "surnameMinLength": "Surname must be at least 2 characters",
+        "subjectRequired": "Subject is required",
+        "subjectMinLength": "Subject must be at least 2 characters",
+        "emailRequired": "Email is required",
+        "emailFormat": "Please enter a valid email address",
+        "messageRequired": "Message is required",
+        "messageMinLength": "Message must be at least 20 characters, and can be at most 180 characters",
+        "messageMaxLength": "Message can be at most 180 characters"
+
+      },
+      "submitButton": "Send",
+      "thankYouText": "Thanks !",
+      "successMessage": "Your message has been sent."
+}

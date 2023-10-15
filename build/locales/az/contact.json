@@ -1,0 +1,26 @@
+{
+        "pageTitle": "Əlaqə",
+        "formPlaceholders": {
+          "name": "Ad",
+          "surname": "Soyad",
+          "subject": "Mövzu",
+          "email": "Email",
+          "message": "Mesajınız"
+        },
+        "formErrors": {
+          "nameRequired": "Ad boş ola bilməz",
+          "nameMinLength": "Ad minimum 2 simvol olmalıdır",
+          "surnameRequired": "Soyad boş ola bilməz",
+          "surnameMinLength": "Soyad minimum 2 simvol olmalıdır",
+          "subjectRequired": "Mövzu boş ola bilməz",
+          "subjectMinLength": "Mövzu minimum 2 simvol olmalıdır",
+          "emailRequired": "Email boş ola bilməz",
+          "emailFormat": "Düzgün email ünvanı daxil edin",
+          "messageRequired": "Mesaj boş ola bilməz",
+          "messageMinLength": "Mesaj minimum 20 simvol ola bilər",
+          "messageMaxLength": "Mesaj maksimum isə 180 simvol ola bilər"
+        },
+        "submitButton": "Göndər",
+        "thankYouText": "Təşəkkürlər !",
+        "successMessage": "Sizin mesajınız bizə göndərildi"
+}
